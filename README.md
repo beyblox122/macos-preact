@@ -26,3 +26,11 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 # Can I contribute?
 
 Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
+# My Verison
+hi there
+If you want to use my verison its (macos-preact-zeta.vercel.app) if you don't like you can always use the the one on the top.
+hgfhfj 
+
+
+# End
+Bye Bye see you when I have another readme update or update.
